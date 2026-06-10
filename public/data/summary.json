@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-06-10T20:23:45.047Z",
+  "generated_at": "2026-06-10T20:30:16.287Z",
   "active_brand": "Isabella Importa",
   "source": {
     "project": "marketing-usa-peru",
@@ -10,10 +10,10 @@
     "products_total": 21,
     "products_isabella": 21,
     "ready_to_publish": 0,
-    "published_any_channel": 2856,
-    "pending_tasks": 17136,
+    "published_any_channel": 17,
+    "pending_tasks": 6,
     "blocked_tasks": 0,
-    "overdue_tasks": 17136
+    "overdue_tasks": 6
   },
   "next_actions": [
     {
