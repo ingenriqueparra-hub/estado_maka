@@ -1,6 +1,126 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-06-10T20:37:50.805Z",
-  "items": [],
-  "note": "No metrics table configured yet"
+  "generated_at": "2026-06-10T20:42:58.372Z",
+  "items": [
+    {
+      "product_name": "",
+      "channel": "",
+      "campaign_name": "",
+      "spend_pen": 0,
+      "impressions": 0,
+      "clicks": 0,
+      "conversations": 0,
+      "useful_messages": 0,
+      "sales": 0,
+      "cost_per_conversation": 0
+    },
+    {
+      "product_name": "",
+      "channel": "",
+      "campaign_name": "",
+      "spend_pen": 0,
+      "impressions": 0,
+      "clicks": 0,
+      "conversations": 0,
+      "useful_messages": 0,
+      "sales": 0,
+      "cost_per_conversation": 0
+    },
+    {
+      "product_name": "",
+      "channel": "",
+      "campaign_name": "",
+      "spend_pen": 0,
+      "impressions": 0,
+      "clicks": 0,
+      "conversations": 0,
+      "useful_messages": 0,
+      "sales": 0,
+      "cost_per_conversation": 0
+    },
+    {
+      "product_name": "",
+      "channel": "",
+      "campaign_name": "",
+      "spend_pen": 0,
+      "impressions": 0,
+      "clicks": 0,
+      "conversations": 0,
+      "useful_messages": 0,
+      "sales": 0,
+      "cost_per_conversation": 0
+    },
+    {
+      "product_name": "",
+      "channel": "",
+      "campaign_name": "",
+      "spend_pen": 0,
+      "impressions": 0,
+      "clicks": 0,
+      "conversations": 0,
+      "useful_messages": 0,
+      "sales": 0,
+      "cost_per_conversation": 0
+    },
+    {
+      "product_name": "",
+      "channel": "",
+      "campaign_name": "",
+      "spend_pen": 0,
+      "impressions": 0,
+      "clicks": 0,
+      "conversations": 0,
+      "useful_messages": 0,
+      "sales": 0,
+      "cost_per_conversation": 0
+    },
+    {
+      "product_name": "",
+      "channel": "",
+      "campaign_name": "",
+      "spend_pen": 0,
+      "impressions": 0,
+      "clicks": 0,
+      "conversations": 0,
+      "useful_messages": 0,
+      "sales": 0,
+      "cost_per_conversation": 0
+    },
+    {
+      "product_name": "",
+      "channel": "",
+      "campaign_name": "",
+      "spend_pen": 0,
+      "impressions": 0,
+      "clicks": 0,
+      "conversations": 0,
+      "useful_messages": 0,
+      "sales": 0,
+      "cost_per_conversation": 0
+    },
+    {
+      "product_name": "",
+      "channel": "",
+      "campaign_name": "",
+      "spend_pen": 0,
+      "impressions": 0,
+      "clicks": 0,
+      "conversations": 0,
+      "useful_messages": 0,
+      "sales": 0,
+      "cost_per_conversation": 0
+    },
+    {
+      "product_name": "",
+      "channel": "",
+      "campaign_name": "",
+      "spend_pen": 0,
+      "impressions": 0,
+      "clicks": 0,
+      "conversations": 0,
+      "useful_messages": 0,
+      "sales": 0,
+      "cost_per_conversation": 0
+    }
+  ]
 }
