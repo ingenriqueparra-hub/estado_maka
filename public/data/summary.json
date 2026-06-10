@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0.0",
+  "generated_at": "2026-06-10T20:23:45.047Z",
+  "active_brand": "Isabella Importa",
+  "source": {
+    "project": "marketing-usa-peru",
+    "exporter": "maka-state-export-n8n"
+  },
+  "counts": {
+    "products_total": 21,
+    "products_isabella": 21,
+    "ready_to_publish": 0,
+    "published_any_channel": 2856,
+    "pending_tasks": 17136,
+    "blocked_tasks": 0,
+    "overdue_tasks": 17136
+  },
+  "next_actions": [
+    {
+      "priority": "alta",
+      "title": "Crear TikTok Isabella Importa",
+      "reason": "Pendiente operativo vigente"
+    },
+    {
+      "priority": "alta",
+      "title": "Publicar Reel Billetera Marvel Capitan America Comics",
+      "reason": "Pendiente operativo vigente"
+    },
+    {
+      "priority": "alta",
+      "title": "Subir Story Billetera Marvel",
+      "reason": "Pendiente operativo vigente"
+    }
+  ],
+  "warnings": [],
+  "public_urls": {
+    "products": "https://ingenriqueparra-hub.github.io/estado_maka/public/data/products.json",
+    "daily_tasks": "https://ingenriqueparra-hub.github.io/estado_maka/public/data/daily-tasks.json",
+    "channels": "https://ingenriqueparra-hub.github.io/estado_maka/public/data/channel-publications.json",
+    "metrics": "https://ingenriqueparra-hub.github.io/estado_maka/public/data/metrics.json"
+  }
+}
