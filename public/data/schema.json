@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "generated_at": "2026-06-10T20:23:45.047Z",
+  "description": "Contrato publico de datos para Maka Web",
+  "files": {
+    "summary": "summary.json",
+    "products": "products.json",
+    "publication_state": "publication-state.json",
+    "channel_publications": "channel-publications.json",
+    "daily_tasks": "daily-tasks.json",
+    "metrics": "metrics.json"
+  },
+  "active_brand": "Isabella Importa",
+  "privacy": {
+    "no_secrets": true,
+    "no_customer_data": true,
+    "no_private_tokens": true,
+    "no_raw_local_paths": true
+  }
+}
