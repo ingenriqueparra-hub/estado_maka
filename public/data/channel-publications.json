@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-06-10T20:56:35.498Z",
+  "generated_at": "2026-06-10T22:36:17.348Z",
   "items": [
     {
       "queue_id": 6,
@@ -13,17 +13,17 @@
     {
       "queue_id": 6,
       "product_name": "Cangurera Dama GUESS Marrón",
-      "channel": "instagram_story",
+      "channel": "whatsapp_catalog",
       "status": "publicado",
-      "published_at": "2026-06-07T05:03:00.723Z",
+      "published_at": "2026-06-07T05:02:31.649Z",
       "post_url": ""
     },
     {
       "queue_id": 6,
       "product_name": "Cangurera Dama GUESS Marrón",
-      "channel": "whatsapp_catalog",
+      "channel": "instagram_story",
       "status": "publicado",
-      "published_at": "2026-06-07T05:02:31.649Z",
+      "published_at": "2026-06-07T05:03:00.723Z",
       "post_url": ""
     },
     {
@@ -37,17 +37,17 @@
     {
       "queue_id": 7,
       "product_name": "Bandolera Hombre GUESS Negra",
-      "channel": "whatsapp_catalog",
+      "channel": "instagram_reel",
       "status": "publicado",
-      "published_at": "2026-06-07T21:59:50.520Z",
+      "published_at": "2026-06-09T05:16:49.181Z",
       "post_url": ""
     },
     {
       "queue_id": 7,
       "product_name": "Bandolera Hombre GUESS Negra",
-      "channel": "instagram_reel",
+      "channel": "whatsapp_catalog",
       "status": "publicado",
-      "published_at": "2026-06-09T05:16:49.181Z",
+      "published_at": "2026-06-07T21:59:50.520Z",
       "post_url": ""
     },
     {
@@ -109,9 +109,9 @@
     {
       "queue_id": 18,
       "product_name": "Guantes Columbia Mujer Gris Térmicos",
-      "channel": "instagram_story",
+      "channel": "whatsapp_catalog",
       "status": "publicado",
-      "published_at": "2026-06-08T08:01:41.383Z",
+      "published_at": "2026-06-07T05:02:31.667Z",
       "post_url": ""
     },
     {
@@ -125,9 +125,9 @@
     {
       "queue_id": 18,
       "product_name": "Guantes Columbia Mujer Gris Térmicos",
-      "channel": "whatsapp_catalog",
+      "channel": "instagram_story",
       "status": "publicado",
-      "published_at": "2026-06-07T05:02:31.667Z",
+      "published_at": "2026-06-08T08:01:41.383Z",
       "post_url": ""
     },
     {
@@ -136,6 +136,14 @@
       "channel": "whatsapp_catalog",
       "status": "publicado",
       "published_at": "2026-06-07T21:59:50.528Z",
+      "post_url": ""
+    },
+    {
+      "queue_id": 19,
+      "product_name": "Billetera Marvel Capitán América Comics",
+      "channel": "tiktok_video",
+      "status": "publicado",
+      "published_at": "2026-06-11T03:19:41.137Z",
       "post_url": ""
     }
   ],
