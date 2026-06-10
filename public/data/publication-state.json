@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-06-10T20:56:35.498Z",
+  "generated_at": "2026-06-10T22:36:17.348Z",
   "items": [
     {
       "queue_id": 6,
@@ -64,7 +64,7 @@
       "publication_status": "publicado",
       "caption_instagram_ready": true,
       "has_capcut_output": true,
-      "updated_at": "2026-06-09T06:20:49.874Z"
+      "updated_at": "2026-06-11T03:19:41.137Z"
     }
   ]
 }
