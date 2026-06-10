@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-06-10T20:56:35.498Z",
+  "generated_at": "2026-06-10T22:36:17.348Z",
   "active_brand": "Isabella Importa",
   "source": {
     "project": "marketing-usa-peru",
@@ -10,17 +10,12 @@
     "products_total": 21,
     "products_isabella": 21,
     "ready_to_publish": 0,
-    "published_any_channel": 17,
-    "pending_tasks": 6,
+    "published_any_channel": 18,
+    "pending_tasks": 3,
     "blocked_tasks": 0,
-    "overdue_tasks": 6
+    "overdue_tasks": 3
   },
   "next_actions": [
-    {
-      "priority": "alta",
-      "title": "Crear TikTok Isabella Importa",
-      "reason": "Pendiente operativo vigente"
-    },
     {
       "priority": "alta",
       "title": "Publicar Reel Billetera Marvel Capitan America Comics",
