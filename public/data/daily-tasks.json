@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-06-10T20:56:35.498Z",
+  "generated_at": "2026-06-10T22:36:17.348Z",
   "items": [
     {
       "id": 1,
@@ -13,7 +13,9 @@
       "title": "Agregar Bandolera GUESS Negra al catalogo WhatsApp",
       "scheduled_at": "2026-06-07T15:30:00.000Z",
       "priority": "media",
-      "status": "completado"
+      "status": "completado",
+      "description": "Confirmar precio, stock y foto clara antes de publicar.",
+      "notes": "Confirmado por usuario: publicado en catalogo WhatsApp; color corregido de marron a negra."
     },
     {
       "id": 2,
@@ -26,7 +28,9 @@
       "title": "Agregar Billetera Marvel al catalogo WhatsApp",
       "scheduled_at": "2026-06-07T15:45:00.000Z",
       "priority": "media",
-      "status": "completado"
+      "status": "completado",
+      "description": "Confirmar stock y precio antes de publicar.",
+      "notes": "Confirmado por usuario: publicado en catalogo WhatsApp."
     },
     {
       "id": 3,
@@ -39,7 +43,9 @@
       "title": "Publicar Reel Victoria's Secret Bare Love Spell",
       "scheduled_at": "2026-06-07T16:30:00.000Z",
       "priority": "alta",
-      "status": "completado"
+      "status": "completado",
+      "description": "Usar caption listo y CTA a WhatsApp privado.",
+      "notes": "Confirmado por usuario: publicado en Instagram el 2026-06-07."
     },
     {
       "id": 4,
@@ -52,7 +58,9 @@
       "title": "Subir Story Victoria's Secret Bare Love Spell",
       "scheduled_at": "2026-06-07T16:40:00.000Z",
       "priority": "alta",
-      "status": "completado"
+      "status": "completado",
+      "description": "Agregar enlace o sticker hacia WhatsApp si esta disponible.",
+      "notes": "Confirmado por usuario: publicado en Instagram el 2026-06-07."
     },
     {
       "id": 5,
@@ -65,7 +73,9 @@
       "title": "Subir Victoria's Secret a estado WhatsApp",
       "scheduled_at": "2026-06-07T17:00:00.000Z",
       "priority": "media",
-      "status": "omitido"
+      "status": "omitido",
+      "description": "CTA: Escribeme por WhatsApp para precio, stock y envio.",
+      "notes": "Omitido: WhatsApp Business es nuevo y aun no hay base de contactos; priorizar Instagram y WhatsApp privado."
     },
     {
       "id": 6,
@@ -78,7 +88,9 @@
       "title": "Publicar Reel Guantes Columbia Mujer Gris Termicos",
       "scheduled_at": "2026-06-07T23:30:00.000Z",
       "priority": "alta",
-      "status": "completado"
+      "status": "completado",
+      "description": "Usar caption listo y CTA a WhatsApp privado.",
+      "notes": "Confirmado por usuario: Reel publicado en Instagram el 2026-06-07."
     },
     {
       "id": 7,
@@ -91,7 +103,9 @@
       "title": "Subir Story Guantes Columbia Mujer Gris Termicos",
       "scheduled_at": "2026-06-07T23:40:00.000Z",
       "priority": "alta",
-      "status": "completado"
+      "status": "completado",
+      "description": "Reforzar stock en Peru y consulta por WhatsApp.",
+      "notes": "Confirmado por usuario: Story publicada en Instagram el 2026-06-07."
     },
     {
       "id": 8,
@@ -104,7 +118,9 @@
       "title": "Subir Guantes Columbia a estado WhatsApp",
       "scheduled_at": "2026-06-08T00:00:00.000Z",
       "priority": "media",
-      "status": "omitido"
+      "status": "omitido",
+      "description": "CTA: Escribeme por WhatsApp para precio, stock y envio.",
+      "notes": "Omitido: WhatsApp Business es nuevo y aun no hay base de contactos; priorizar Instagram y WhatsApp privado."
     },
     {
       "id": 9,
@@ -117,7 +133,9 @@
       "title": "Registrar metricas del Reel de Cangurera GUESS",
       "scheduled_at": "2026-06-08T02:00:00.000Z",
       "priority": "media",
-      "status": "completado"
+      "status": "completado",
+      "description": "Anotar vistas, likes, comentarios, guardados y mensajes recibidos.",
+      "notes": "Metrica parcial actualizada: Reel Cangurera GUESS sigue en 132 visualizaciones reportadas por usuario. Lectura contaminada por auto-visualizaciones y contexto de elecciones; pendiente revisar alcance/interacciones/mensajes manana."
     },
     {
       "id": 10,
@@ -130,7 +148,9 @@
       "title": "Publicar Reel Cangurera GUESS Negra",
       "scheduled_at": "2026-06-07T03:47:42.243Z",
       "priority": "alta",
-      "status": "completado"
+      "status": "completado",
+      "description": "Video listo en Drive, publicar en IG",
+      "notes": ""
     },
     {
       "id": 11,
@@ -143,7 +163,9 @@
       "title": "Revisar DMs y comentarios del día",
       "scheduled_at": "2026-06-07T04:47:42.243Z",
       "priority": "media",
-      "status": "omitido"
+      "status": "omitido",
+      "description": "Responder consultas de precios y tallas",
+      "notes": ""
     },
     {
       "id": 21,
@@ -156,7 +178,9 @@
       "title": "Revisar metricas limpias Reel Cangurera GUESS",
       "scheduled_at": "2026-06-08T14:30:00.000Z",
       "priority": "alta",
-      "status": "completado"
+      "status": "completado",
+      "description": "Registrar visualizaciones, likes, comentarios, compartidos, guardados, visitas al perfil y mensajes WhatsApp.",
+      "notes": "Pendiente planificado por agente operativo para agenda de lanzamiento inicial."
     },
     {
       "id": 22,
@@ -169,7 +193,9 @@
       "title": "Revisar metricas Reel Victoria's Secret Love Spell",
       "scheduled_at": "2026-06-08T14:40:00.000Z",
       "priority": "alta",
-      "status": "completado"
+      "status": "completado",
+      "description": "No evaluar como fracaso aun; considerar cuenta nueva y contexto electoral.",
+      "notes": "Pendiente planificado por agente operativo para agenda de lanzamiento inicial."
     },
     {
       "id": 23,
@@ -182,7 +208,9 @@
       "title": "Revisar metricas Reel Guantes Columbia",
       "scheduled_at": "2026-06-08T14:50:00.000Z",
       "priority": "alta",
-      "status": "completado"
+      "status": "completado",
+      "description": "Registrar visualizaciones e interacciones iniciales.",
+      "notes": "Pendiente planificado por agente operativo para agenda de lanzamiento inicial."
     },
     {
       "id": 24,
@@ -195,7 +223,9 @@
       "title": "Crear Facebook Page Isabella Importa",
       "scheduled_at": "2026-06-08T15:30:00.000Z",
       "priority": "alta",
-      "status": "completado"
+      "status": "completado",
+      "description": "Crear pagina separada de Isabella Importa. No mezclar con otras marcas.",
+      "notes": "Facebook Page Isabella Importa creada y configurada."
     },
     {
       "id": 25,
@@ -208,7 +238,9 @@
       "title": "Conectar Instagram, Facebook Page y WhatsApp Business",
       "scheduled_at": "2026-06-08T16:15:00.000Z",
       "priority": "media",
-      "status": "completado"
+      "status": "completado",
+      "description": "Conectar activos en Meta para preparar crosspost y futura pauta a WhatsApp privado.",
+      "notes": "Instagram, Facebook Page y WhatsApp Business conectados y verificados."
     },
     {
       "id": 26,
@@ -221,7 +253,9 @@
       "title": "Publicar Reel Bandolera GUESS Negra",
       "scheduled_at": "2026-06-08T23:30:00.000Z",
       "priority": "alta",
-      "status": "completado"
+      "status": "completado",
+      "description": "Publicar solo un producto del dia. CTA a WhatsApp privado.",
+      "notes": "Pendiente planificado por agente operativo para agenda de lanzamiento inicial."
     },
     {
       "id": 27,
@@ -234,7 +268,9 @@
       "title": "Subir Story Bandolera GUESS Negra",
       "scheduled_at": "2026-06-08T23:40:00.000Z",
       "priority": "alta",
-      "status": "completado"
+      "status": "completado",
+      "description": "Usar boton o URL con nombre Pedir por WhatsApp. No subir Estado WhatsApp.",
+      "notes": "Pendiente planificado por agente operativo para agenda de lanzamiento inicial."
     },
     {
       "id": 28,
@@ -247,7 +283,9 @@
       "title": "Revisar mensajes recibidos por WhatsApp",
       "scheduled_at": "2026-06-09T02:00:00.000Z",
       "priority": "media",
-      "status": "completado"
+      "status": "completado",
+      "description": "Anotar consultas, productos preguntados y posibles cierres.",
+      "notes": "Pendiente planificado por agente operativo para agenda de lanzamiento inicial.\nRevision confirmada por Enrique: cuenta recien iniciada, sin mensajes ni consultas recibidas."
     },
     {
       "id": 29,
@@ -260,7 +298,9 @@
       "title": "Revisar metricas Reel Bandolera GUESS Negra",
       "scheduled_at": "2026-06-09T14:30:00.000Z",
       "priority": "alta",
-      "status": "completado"
+      "status": "completado",
+      "description": "Comparar con Cangurera, Victoria Secret y Guantes.",
+      "notes": "Pendiente planificado por agente operativo para agenda de lanzamiento inicial."
     },
     {
       "id": 30,
@@ -273,7 +313,9 @@
       "title": "Comparar rendimiento inicial de Reels publicados",
       "scheduled_at": "2026-06-09T15:00:00.000Z",
       "priority": "media",
-      "status": "completado"
+      "status": "completado",
+      "description": "Comparar Cangurera, Victoria Secret, Guantes y Bandolera por vistas reales, interacciones y mensajes.",
+      "notes": "Pendiente planificado por agente operativo para agenda de lanzamiento inicial."
     },
     {
       "id": 31,
@@ -286,7 +328,9 @@
       "title": "Crear TikTok Isabella Importa",
       "scheduled_at": "2026-06-09T15:45:00.000Z",
       "priority": "alta",
-      "status": "pendiente"
+      "status": "completado",
+      "description": "Crear canal separado de Isabella Importa. Preparar usuario, bio y logo.",
+      "notes": "Pendiente planificado por agente operativo para agenda de lanzamiento inicial."
     },
     {
       "id": 32,
@@ -299,7 +343,9 @@
       "title": "Publicar Reel Billetera Marvel Capitan America Comics",
       "scheduled_at": "2026-06-09T23:30:00.000Z",
       "priority": "alta",
-      "status": "pendiente"
+      "status": "pendiente",
+      "description": "Publicar un solo producto del dia en Instagram. CTA a WhatsApp privado.",
+      "notes": "Pendiente planificado por agente operativo para agenda de lanzamiento inicial."
     },
     {
       "id": 33,
@@ -312,7 +358,9 @@
       "title": "Subir Story Billetera Marvel",
       "scheduled_at": "2026-06-09T23:40:00.000Z",
       "priority": "alta",
-      "status": "pendiente"
+      "status": "pendiente",
+      "description": "Usar boton o URL con nombre Pedir por WhatsApp.",
+      "notes": "Pendiente planificado por agente operativo para agenda de lanzamiento inicial."
     },
     {
       "id": 34,
@@ -325,7 +373,9 @@
       "title": "Publicar Billetera Marvel en TikTok si el canal ya esta listo",
       "scheduled_at": "2026-06-10T00:00:00.000Z",
       "priority": "media",
-      "status": "pendiente"
+      "status": "completado",
+      "description": "Solo publicar si TikTok Isabella Importa ya fue creado correctamente.",
+      "notes": "Pendiente planificado por agente operativo para agenda de lanzamiento inicial."
     },
     {
       "id": 35,
@@ -338,7 +388,9 @@
       "title": "Revisar catalogo WhatsApp activo",
       "scheduled_at": "2026-06-10T01:30:00.000Z",
       "priority": "media",
-      "status": "pendiente"
+      "status": "completado",
+      "description": "Confirmar Bandolera GUESS Negra como negra y Billetera Marvel visible. No cargar productos nuevos sin plan de publicacion.",
+      "notes": "Pendiente planificado por agente operativo para agenda de lanzamiento inicial."
     },
     {
       "id": 36,
@@ -351,7 +403,9 @@
       "title": "Decidir canal del miercoles",
       "scheduled_at": "2026-06-10T02:00:00.000Z",
       "priority": "baja",
-      "status": "pendiente"
+      "status": "pendiente",
+      "description": "Decidir si el miercoles se prueba Facebook Reel o se continua Instagram/TikTok.",
+      "notes": "Pendiente planificado por agente operativo para agenda de lanzamiento inicial."
     }
   ],
   "valid_statuses": [
