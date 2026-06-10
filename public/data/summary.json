@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-06-10T20:37:50.805Z",
+  "generated_at": "2026-06-10T20:42:58.372Z",
   "active_brand": "Isabella Importa",
   "source": {
     "project": "marketing-usa-peru",
@@ -38,5 +38,11 @@
     "daily_tasks": "https://ingenriqueparra-hub.github.io/estado_maka/public/data/daily-tasks.json",
     "channels": "https://ingenriqueparra-hub.github.io/estado_maka/public/data/channel-publications.json",
     "metrics": "https://ingenriqueparra-hub.github.io/estado_maka/public/data/metrics.json"
+  },
+  "maka_recommendation_inputs": {
+    "has_prices": true,
+    "has_metrics": true,
+    "has_categories": false,
+    "can_decide_ads": true
   }
 }
