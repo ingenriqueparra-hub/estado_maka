@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-06-10T20:42:58.372Z",
+  "generated_at": "2026-06-10T20:56:35.498Z",
   "items": [
     {
       "queue_id": 6,
@@ -11,8 +11,6 @@
       "public_price_pen": 179,
       "stock_status": "disponible",
       "publication_status": "ready_local",
-      "caption_instagram_ready": false,
-      "has_capcut_output": false,
       "updated_at": "2026-06-07T00:55:57.405Z"
     },
     {
@@ -24,8 +22,6 @@
       "public_price_pen": 199,
       "stock_status": "disponible",
       "publication_status": "ready_local",
-      "caption_instagram_ready": false,
-      "has_capcut_output": false,
       "updated_at": "2026-06-07T01:01:26.358Z"
     },
     {
@@ -37,8 +33,6 @@
       "public_price_pen": 219,
       "stock_status": "disponible",
       "publication_status": "waiting_video",
-      "caption_instagram_ready": false,
-      "has_capcut_output": false,
       "updated_at": "2026-06-05T19:00:04.070Z"
     },
     {
@@ -50,8 +44,6 @@
       "public_price_pen": 199,
       "stock_status": "disponible",
       "publication_status": "waiting_video",
-      "caption_instagram_ready": false,
-      "has_capcut_output": false,
       "updated_at": "2026-06-05T20:00:11.738Z"
     },
     {
@@ -63,8 +55,6 @@
       "public_price_pen": 89,
       "stock_status": "disponible",
       "publication_status": "waiting_video",
-      "caption_instagram_ready": false,
-      "has_capcut_output": false,
       "updated_at": "2026-06-06T05:11:28.455Z"
     },
     {
@@ -76,8 +66,6 @@
       "public_price_pen": 89,
       "stock_status": "disponible",
       "publication_status": "ready_local",
-      "caption_instagram_ready": false,
-      "has_capcut_output": false,
       "updated_at": "2026-06-07T01:11:56.295Z"
     },
     {
@@ -89,8 +77,6 @@
       "public_price_pen": 89,
       "stock_status": "disponible",
       "publication_status": "waiting_video",
-      "caption_instagram_ready": false,
-      "has_capcut_output": false,
       "updated_at": "2026-06-06T06:01:38.218Z"
     },
     {
@@ -102,8 +88,6 @@
       "public_price_pen": 279,
       "stock_status": "disponible",
       "publication_status": "waiting_video",
-      "caption_instagram_ready": false,
-      "has_capcut_output": false,
       "updated_at": "2026-06-06T06:06:15.191Z"
     },
     {
@@ -115,8 +99,6 @@
       "public_price_pen": 279,
       "stock_status": "disponible",
       "publication_status": "ready_local",
-      "caption_instagram_ready": false,
-      "has_capcut_output": false,
       "updated_at": "2026-06-07T01:18:09.160Z"
     },
     {
@@ -128,8 +110,6 @@
       "public_price_pen": 89,
       "stock_status": "disponible",
       "publication_status": "ready_local",
-      "caption_instagram_ready": false,
-      "has_capcut_output": false,
       "updated_at": "2026-06-07T05:17:14.811Z"
     },
     {
@@ -141,8 +121,6 @@
       "public_price_pen": 119,
       "stock_status": "disponible",
       "publication_status": "ready_local",
-      "caption_instagram_ready": false,
-      "has_capcut_output": false,
       "updated_at": "2026-06-08T19:53:10.371Z"
     },
     {
@@ -154,8 +132,6 @@
       "public_price_pen": 89,
       "stock_status": "disponible",
       "publication_status": "ready_local",
-      "caption_instagram_ready": false,
-      "has_capcut_output": false,
       "updated_at": "2026-06-07T01:23:45.879Z"
     },
     {
@@ -167,8 +143,6 @@
       "public_price_pen": 129,
       "stock_status": "disponible",
       "publication_status": "ready_local",
-      "caption_instagram_ready": false,
-      "has_capcut_output": false,
       "updated_at": "2026-06-07T05:13:06.842Z"
     },
     {
@@ -180,8 +154,6 @@
       "public_price_pen": 89,
       "stock_status": "disponible",
       "publication_status": "ready_local",
-      "caption_instagram_ready": false,
-      "has_capcut_output": false,
       "updated_at": "2026-06-08T19:51:03.540Z"
     },
     {
@@ -193,8 +165,6 @@
       "public_price_pen": 189,
       "stock_status": "disponible",
       "publication_status": "waiting_video",
-      "caption_instagram_ready": false,
-      "has_capcut_output": false,
       "updated_at": "2026-06-07T19:00:06.872Z"
     },
     {
@@ -206,8 +176,6 @@
       "public_price_pen": 139,
       "stock_status": "disponible",
       "publication_status": "ready",
-      "caption_instagram_ready": false,
-      "has_capcut_output": true,
       "updated_at": "2026-06-07T20:07:35.348Z"
     },
     {
@@ -219,8 +187,6 @@
       "public_price_pen": 49.99,
       "stock_status": "disponible",
       "publication_status": "waiting_video",
-      "caption_instagram_ready": false,
-      "has_capcut_output": false,
       "updated_at": "2026-06-08T19:00:07.978Z"
     },
     {
@@ -232,8 +198,6 @@
       "public_price_pen": 88.99,
       "stock_status": "disponible",
       "publication_status": "waiting_video",
-      "caption_instagram_ready": false,
-      "has_capcut_output": false,
       "updated_at": "2026-06-08T19:47:54.236Z"
     },
     {
@@ -245,8 +209,6 @@
       "public_price_pen": 1079.99,
       "stock_status": "disponible",
       "publication_status": "ready",
-      "caption_instagram_ready": false,
-      "has_capcut_output": true,
       "updated_at": "2026-06-08T20:00:12.551Z"
     },
     {
@@ -258,8 +220,6 @@
       "public_price_pen": 179.96,
       "stock_status": "disponible",
       "publication_status": "waiting_video",
-      "caption_instagram_ready": false,
-      "has_capcut_output": false,
       "updated_at": "2026-06-09T19:00:05.957Z"
     },
     {
@@ -271,8 +231,6 @@
       "public_price_pen": 199.96,
       "stock_status": "disponible",
       "publication_status": "ready",
-      "caption_instagram_ready": false,
-      "has_capcut_output": true,
       "updated_at": "2026-06-09T20:00:12.400Z"
     }
   ]
